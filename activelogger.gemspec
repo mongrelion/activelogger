@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Activelogger::VERSION
   s.authors     = ["Carlos León"]
   s.email       = ["mail@carlosleon.info"]
-  s.homepage    = ""
+  s.homepage    = "http://github.com/mongrelion/activelogger"
   s.summary     = %q{Rails Logging Engine}
   s.description = %q{Access to your Rails application logs through the web}
 
